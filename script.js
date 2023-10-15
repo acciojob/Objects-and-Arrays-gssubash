@@ -11,6 +11,7 @@ let players = team;
 let team1 = players;
 let cap1 = person;
 
+let window = person;
 window.players = players;
 window.person = person;
 window.team = team;
